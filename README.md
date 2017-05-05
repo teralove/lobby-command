@@ -1,7 +1,7 @@
 # Lobby Command
 Return to the lobby (character selection) via chat command
 
-### Chat commands:
+### Chat command:
 !lobby
 
 Command is not case-sensitive.
