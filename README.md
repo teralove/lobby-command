@@ -1,10 +1,8 @@
-# Lobby Command
+# lobby-command
 Return to the lobby (character selection) via chat command
 
-### Chat command:
-!lobby
+## Dependency
+- `Command` module
 
-Command is not case-sensitive.
-
-
-[slash](https://github.com/baldera-mods/slash) is supported but not required
+## Usage
+### `lobby` `logout`
