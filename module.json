@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "lobby-command",
+    "author": "teralove",
+    "description": "Return to the lobby (character selection) via command.",
+    "options": {
+        "niceName": "Lobby Command"
+    },
+    "servers": ["https://raw.githubusercontent.com/teralove/lobby-command/master/"],
+    "supportUrl": "https://github.com/teralove/lobby-command/issues"
+}
